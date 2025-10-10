@@ -18,28 +18,10 @@
 
 ### 🧰 Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discordjs,html,css,discord,ae,figma,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,discordjs,discord,figma,robloxstudio,html,css,java,cpp,ae,pr&theme=dark" />
 </p>
 
----
-
-### 🚧 Featured Projects
-<p align="center">
-  <a href="https://github.com/zlxrnn/JKT48-Private-Message">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlxrnn&repo=JKT48-Private-Message&theme=midnight-purple&hide_border=true" />
-  </a>
-  <a href="https://github.com/zlxrnn/Lobbyverse-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlxrnn&repo=Lobbyverse-Bot&theme=midnight-purple&hide_border=true" />
-  </a>
-  <a href="https://github.com/zlxrnn/Gacha-Collection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlxrnn&repo=Gacha-Collection&theme=midnight-purple&hide_border=true" />
-  </a>
-  <a href="https://github.com/zlxrnn/Executables-Customs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlxrnn&repo=Executables-Customs&theme=midnight-purple&hide_border=true" />
-  </a>
-</p>
-
----
+---z
 
 ### 📊 GitHub Overview
 <p align="center">
