@@ -44,8 +44,9 @@
 
 ### 📊 GitHub Overview
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=zlxrnn&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlxrnn&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=zlxrnn&show_icons=true&theme=midnight-purple&count_private=true"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=zlxrnn&show_icons=true&theme=midnight-purple&count_private=true&cache_seconds=3600"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlxrnn&layout=compact&theme=midnight-purple&count_private=true"/>
 </p>
 
 ---
