@@ -8,17 +8,18 @@
 ---
 
 ### 🌸 About Me
-> A creative developer who enjoys turning small ideas into systems that actually *work*.
+> A creative developer who loves turning small ideas into systems that actually *work*.
 
-- 🧠 Exploring **Discord Automation Bot**, **Software Engineering**, and **Discord**
-- 💻 I like clean code and organized project structures
-- 🌱 Learning **Discord.js**, **Front-end Web Development**, and **Anything that I like**
+- 🧠 Exploring **Discord automation**, **software engineering**, and **creative development**
+- 💻 I like clean, structured code — and projects that make people curious
+- 🌱 Learning **Discord.js**, **frontend web development**, and *anything that catches my interest*
+- 🎶 Fun fact: I'm a **JKT48 fan**, and my oshi is **Gracia** 💕
 
 ---
 
 ### 🧰 Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discordjs,html,css,discord,ae,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=discordjs,html,css,discord,ae,figma,vscode&theme=dark" />
 </p>
 
 ---
@@ -26,16 +27,16 @@
 ### 🚧 Featured Projects
 <p align="center">
   <a href="https://github.com/zlxrnn/JKT48-Private-Message">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlxrnn&repo=JKT48-Private-Message&theme=midnight-purple" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlxrnn&repo=JKT48-Private-Message&theme=midnight-purple&hide_border=true" />
   </a>
   <a href="https://github.com/zlxrnn/Lobbyverse-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlxrnn&repo=Lobbyverse-Bot&theme=midnight-purple" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlxrnn&repo=Lobbyverse-Bot&theme=midnight-purple&hide_border=true" />
   </a>
   <a href="https://github.com/zlxrnn/Gacha-Collection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlxrnn&repo=Gacha-Collection&theme=midnight-purple" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlxrnn&repo=Gacha-Collection&theme=midnight-purple&hide_border=true" />
   </a>
   <a href="https://github.com/zlxrnn/Executables-Customs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlxrnn&repo=Executables-Customs&theme=midnight-purple" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlxrnn&repo=Executables-Customs&theme=midnight-purple&hide_border=true" />
   </a>
 </p>
 
@@ -51,11 +52,14 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://discord.gg/">
+  <a href="https://discord.com/users/_onlyshinee">
     <img src="https://img.shields.io/badge/Discord-%40_onlyshinee-5865F2?style=flat&logo=discord" />
   </a>
   <a href="https://github.com/zlxrnn">
     <img src="https://img.shields.io/badge/GitHub-zlxrnn-171515?style=flat&logo=github" />
+  </a>
+  <a href="https://tiktok.com/@zens4.motion">
+    <img src="https://img.shields.io/badge/TikTok-%40zens4.motion-black?style=flat&logo=tiktok" />
   </a>
 </p>
 
