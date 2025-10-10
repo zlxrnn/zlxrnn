@@ -1,16 +1,71 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media1.tenor.com/m/HwYtFJQO3WAAAAAd/anime-hi.gif" width="420" alt="Banner">
+</p>
 
-<!--
-**zlxrnn/zlxrnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">✨ Hey, I'm <a href="https://github.com/zlxrnn">Shine</a>!</h1>
+<h3 align="center">Digital tinkerer • Discord bot developer • Dreamer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌸 About Me
+> A creative developer who enjoys turning small ideas into systems that actually *work*.
+
+- 🧠 Exploring **Discord automation**, **data systems**, and **interactive bots**
+- 💻 I like clean code and organized project structures
+- 🌱 Learning **TypeScript**, **Next.js**, and **UI logic design**
+- 💬 Ask me about bot event handling, command modularization, or JSON data persistence
+- 🎶 Fun fact: I’m a **JKT48 fan**, and my oshi is **Gracia** 💕
+
+---
+
+### 🧰 Toolbox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,express,discord,mongodb,vscode,git" />
+</p>
+
+---
+
+### 🚧 Featured Projects
+<p align="center">
+  <a href="https://github.com/zlxrnn/JKT48-Private-Message">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlxrnn&repo=JKT48-Private-Message&theme=midnight-purple" />
+  </a>
+  <a href="https://github.com/zlxrnn/Lobbyverse-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlxrnn&repo=Lobbyverse-Bot&theme=midnight-purple" />
+  </a>
+  <a href="https://github.com/zlxrnn/Gacha-Collection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlxrnn&repo=Gacha-Collection&theme=midnight-purple" />
+  </a>
+  <a href="https://github.com/zlxrnn/Executables-Customs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zlxrnn&repo=Executables-Customs&theme=midnight-purple" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Overview
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=zlxrnn&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlxrnn&layout=compact&theme=midnight-purple&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://tiktok.com/@zens4.motion">
+    <img src="https://img.shields.io/badge/TikTok-%40zens4.motion-black?style=flat&logo=tiktok" />
+  </a>
+  <a href="https://discord.gg/">
+    <img src="https://img.shields.io/badge/Discord-%40shine.lxr-5865F2?style=flat&logo=discord" />
+  </a>
+  <a href="https://github.com/zlxrnn">
+    <img src="https://img.shields.io/badge/GitHub-zlxrnn-171515?style=flat&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Every idea starts small — until you decide to make it real.”</i>
+</p>
