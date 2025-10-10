@@ -44,10 +44,10 @@
 ### 📊 GitHub Overview
 <p align="center">
   <a href="https://github.com/zlxrnn/">
-  <img height="160px" src="https://github-readme-stats-mnsx.vercel.app/api?username=zlxrnn&show_icons=true&hide_border=true&layout=compact&theme=midnight-purple&count_private=true"/>
+  <img height="160px" src="https://github-readme-stats-mnsx.vercel.app/api?username=zlxrnn&show_icons=true&layout=compact&theme=midnight-purple&count_private=true"/>
   </a>
   <a href="https://github.com/zlxrnn/">
-  <img height="160px" src="https://github-readme-stats-mnsx.vercel.app/api/top-langs/?username=zlxrnn&layout=compact&theme=midnight-purple&count_private=true"/>
+  <img height="160px" src="https://github-readme-stats-mnsx.vercel.app/api/top-langs/?username=zlxrnn&show_icons=true&layout=compact&theme=midnight-purple&count_private=true"/>
   </a>
 </p>
 
