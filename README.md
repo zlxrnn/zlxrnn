@@ -52,7 +52,7 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://discord.gg/">
-    <img src="https://img.shields.io/badge/Discord-%40shine.lxr-5865F2?style=flat&logo=discord" />
+    <img src="https://img.shields.io/badge/Discord-%40_onlyshinee-5865F2?style=flat&logo=discord" />
   </a>
   <a href="https://github.com/zlxrnn">
     <img src="https://img.shields.io/badge/GitHub-zlxrnn-171515?style=flat&logo=github" />
