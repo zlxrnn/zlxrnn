@@ -10,17 +10,15 @@
 ### 🌸 About Me
 > A creative developer who enjoys turning small ideas into systems that actually *work*.
 
-- 🧠 Exploring **Discord automation**, **data systems**, and **interactive bots**
+- 🧠 Exploring **Discord Automation Bot**, **Software Engineering**, and **Discord**
 - 💻 I like clean code and organized project structures
-- 🌱 Learning **TypeScript**, **Next.js**, and **UI logic design**
-- 💬 Ask me about bot event handling, command modularization, or JSON data persistence
-- 🎶 Fun fact: I’m a **JKT48 fan**, and my oshi is **Gracia** 💕
+- 🌱 Learning **Discord.js**, **Front-end Web Development**, and **Anything that I like**
 
 ---
 
 ### 🧰 Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discordjs,html,css,discord,ae,figma,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=discordjs,html,css,discord,ae,figma,vscode" />
 </p>
 
 ---
@@ -53,9 +51,6 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://tiktok.com/@zens4.motion">
-    <img src="https://img.shields.io/badge/TikTok-%40zens4.motion-black?style=flat&logo=tiktok" />
-  </a>
   <a href="https://discord.gg/">
     <img src="https://img.shields.io/badge/Discord-%40shine.lxr-5865F2?style=flat&logo=discord" />
   </a>
