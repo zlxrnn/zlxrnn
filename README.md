@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">✨ Hey, I'm <a href="https://github.com/zlxrnn">Shine</a>!</h1>
-<h3 align="center">Digital tinkerer • Discord bot developer • Dreamer</h3>
+<h3 align="center">Digital Tinkerer • Junior Developer • Dreamer</h3>
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### 🧰 Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,express,discord,mongodb,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=djs,html,css,discord,cpp,java,php,vscode,git" />
 </p>
 
 ---
