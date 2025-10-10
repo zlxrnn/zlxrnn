@@ -13,7 +13,6 @@
 - 🧠 Exploring **Discord automation**, **software engineering**, and **creative development**
 - 💻 I like clean, structured code — and projects that make people curious
 - 🌱 Learning **Discord.js**, **frontend web development**, and *anything that catches my interest*
-- 🎶 Fun fact: I'm a **JKT48 fan**, and my oshi is **Gracia** 💕
 
 ---
 
@@ -44,9 +43,12 @@
 
 ### 📊 GitHub Overview
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=zlxrnn&show_icons=true&theme=midnight-purple&count_private=true"/>
+  <a href="https://github.com/zlxrnn/">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=zlxrnn&show_icons=true&theme=midnight-purple&count_private=true&cache_seconds=3600"/>
+  </a>
+  <a href="https://github.com/zlxrnn/">
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlxrnn&layout=compact&theme=midnight-purple&count_private=true"/>
+  </a>
 </p>
 
 ---
