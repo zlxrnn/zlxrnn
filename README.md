@@ -20,7 +20,7 @@
 
 ### 🧰 Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=djs,html,css,discord,cpp,java,php,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=discordjs,html,css,discord,ae,figma,vscode,git" />
 </p>
 
 ---
