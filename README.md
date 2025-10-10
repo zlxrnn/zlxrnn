@@ -58,9 +58,6 @@
   <a href="https://github.com/zlxrnn">
     <img src="https://img.shields.io/badge/GitHub-zlxrnn-171515?style=flat&logo=github" />
   </a>
-  <a href="https://tiktok.com/@zens4.motion">
-    <img src="https://img.shields.io/badge/TikTok-%40zens4.motion-black?style=flat&logo=tiktok" />
-  </a>
 </p>
 
 ---
