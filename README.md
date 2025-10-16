@@ -1,52 +1,82 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/HwYtFJQO3WAAAAAd/anime-hi.gif" width="420" alt="Banner">
-</p>
+<!-- 🌌 OneWeeks_ GitHub Profile -->
 
-<h1 align="center">✨ Hey, I'm <a href="https://github.com/zlxrnn">Shine</a>!</h1>
-<h3 align="center">Digital Tinkerer • Junior Developer • Dreamer</h3>
+<div align="center">
 
----
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,40,80&height=150&section=header&text=OneWeeks_&fontAlignY=35&fontSize=45&fontColor=fff)
 
-### 🌸 About Me
-> A creative developer who loves turning small ideas into systems that actually *work*.
+  <p><b>🌙 Digital Creator • Developer • Learner</b></p>
 
-- 🧠 Exploring **Discord automation**, **software engineering**, and **creative development**
-- 💻 I like clean, structured code — and projects that make people curious
-- 🌱 Learning **Discord.js**, **frontend web development**, and *anything that catches my interest*
+  <p>
+    <a href="https://github.com/OneWeeks_"><img src="https://img.shields.io/badge/GitHub-OneWeeks_-%23181717?style=for-the-badge&logo=github"></a>
+    <a href="https://discord.com/users/oneweeks"><img src="https://img.shields.io/badge/Discord-oneweeks-5865F2?style=for-the-badge&logo=discord"></a>
+  </p>
 
----
-
-### 🧰 Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,discordjs,discord,figma,robloxstudio,html,css,svelte,java,cpp,ae,pr&theme=dark" />
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Overview
+### 👋 About Me
+
+Hi, I’m **OneWeeks_** — a developer who enjoys exploring tech and design from different perspectives.  
+I love small but meaningful projects that balance **aesthetic** and **functionality**.
+
+- 🧠 Currently diving into **frontend development** and **Discord automation**
+- ✨ Fascinated by **minimal interfaces** and clean system logic
+- 🪴 Always learning something new — because one week is never enough
+
+---
+
+### 🧰 Tech & Tools I Use
+
+<div align="center">
+
+| 💻 Languages | ⚙️ Frameworks | 🎨 Design & Tools |
+|---------------|----------------|-------------------|
+| JavaScript, TypeScript, C++ | Node.js, Svelte, Express | Figma, VS Code, After Effects |
+
+</div>
+
+---
+
+### 📊 Stats & Activity
+
+<div align="center">
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=OneWeeks_&show_icons=true&theme=nightowl&hide_border=true" />
+  <img height="165px" src="https://github-readme-streak-stats.herokuapp.com?user=OneWeeks_&theme=nightowl&hide_border=true" />
+</div>
+
+---
+
+### 🚀 Projects You Might Like
+
+> Some of the things I’ve been experimenting with lately 👇
+
+- 🎭 **EchoBot** — a minimalist Discord bot with clean command structure  
+  <sub>*(Node.js, Discord.js, JSON)*</sub>  
+- 🌐 **Svelte Playground** — experimenting with UI animations and transitions  
+  <sub>*(SvelteKit, TailwindCSS)*</sub>  
+- 🪄 **PromptCraft** — creative tools for writing, AI prompts, and automation  
+  <sub>*(TypeScript, Web APIs)*</sub>  
+
+---
+
+### 💬 Connect With Me
+
 <p align="center">
-  <a href="https://github.com/zlxrnn/">
-  <img height="160px" src="https://github-readme-stats-mnsx.vercel.app/api?username=zlxrnn&show_icons=true&layout=compact&theme=midnight-purple&count_private=true"/>
+  <a href="https://discord.com/users/oneweeks">
+    <img src="https://img.shields.io/badge/Discord-oneweeks-5865F2?style=flat-square&logo=discord" />
   </a>
-  <a href="https://github.com/zlxrnn/">
-  <img height="160px" src="https://github-readme-stats-mnsx.vercel.app/api/top-langs/?username=zlxrnn&show_icons=true&layout=compact&theme=midnight-purple&count_private=true"/>
+  <a href="https://github.com/OneWeeks_">
+    <img src="https://img.shields.io/badge/GitHub-OneWeeks_-%23181717?style=flat-square&logo=github" />
   </a>
 </p>
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://discord.com/users/_onlyshinee">
-    <img src="https://img.shields.io/badge/Discord-%40_onlyshinee-5865F2?style=flat&logo=discord" />
-  </a>
-  <a href="https://github.com/zlxrnn">
-    <img src="https://img.shields.io/badge/GitHub-zlxrnn-171515?style=flat&logo=github" />
-  </a>
-</p>
+<div align="center">
 
----
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,40,80&height=120&section=footer)
 
-<p align="center">
-  <i>“Every idea starts small — until you decide to make it real.”</i>
-</p>
+  <i>“A week to build, a lifetime to refine.”</i>
+
+</div>
