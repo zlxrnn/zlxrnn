@@ -2,7 +2,7 @@
   <img src="https://media1.tenor.com/m/HwYtFJQO3WAAAAAd/anime-hi.gif" width="420" alt="Banner">
 </p>
 
-<h1 align="center">✨ Hey, I'm <a href="https://github.com/zlxrnn">Shine</a>!</h1>
+<h1 align="center">✨ Hey, I'm <a href="https://github.com/zlxrnn">Mban</a>!</h1>
 <h3 align="center">Digital Tinkerer • Junior Developer • Dreamer</h3>
 
 ---
