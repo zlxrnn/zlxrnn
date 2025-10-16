@@ -18,7 +18,7 @@
 
 ### 🧰 Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,discordjs,discord,figma,robloxstudio,html,css,java,cpp,ae,pr&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,discordjs,discord,figma,robloxstudio,html,css,svelte,java,cpp,ae,pr&theme=dark" />
 </p>
 
 ---
