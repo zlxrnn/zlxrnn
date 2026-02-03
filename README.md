@@ -1,24 +1,16 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/HwYtFJQO3WAAAAAd/anime-hi.gif" width="420" alt="Banner">
-</p>
-
 <h1 align="center">✨ Hey, I'm <a href="https://github.com/zlxrnn">Shine</a>!</h1>
-<h3 align="center">Digital Tinkerer • Junior Developer • Dreamer</h3>
+<h3 align="center">Junior Developer • Dreamer</h3>
 
 ---
 
 ### 🌸 About Me
-> A creative developer who loves turning small ideas into systems that actually *work*.
-
-- 🧠 Exploring **Discord automation**, **software engineering**, and **creative development**
-- 💻 I like clean, structured code — and projects that make people curious
-- 🌱 Learning **Discord.js**, **frontend web development**, and *anything that catches my interest*
+> adalah pokoknya
 
 ---
 
 ### 🧰 Toolbox
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,discordjs,discord,figma,robloxstudio,html,css,svelte,java,cpp,ae,pr&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tailwind,discordjs,discord,figma,robloxstudio,html,css,ae,pr&theme=dark" />
 </p>
 
 ---
