@@ -71,7 +71,7 @@ shine@dev ~ % cat current_focus.txt
 ### `05 / ACTIVITY`
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zlxrnn&theme=github-compact&custom_title=CONTRIBUTION%20TIMELINE&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=zlxrnn&theme=github-compact&custom_title=CONTRIBUTION%20TIMELINE&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
