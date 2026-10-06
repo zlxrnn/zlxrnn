@@ -68,14 +68,6 @@ shine@dev ~ % cat current_focus.txt
 
 ---
 
-### `05 / ACTIVITY`
-
-<p align="left">
-  <div align="center"> <a href="https://github.com/zlxrnn"> <img src="https://github-readme-activity-graph.vercel.app/graphusername=zlxrnn&bg_color=00000000&color=888888&line=888888&point=ffffff&area=true&hide_border=true" width="100%" /> </a> </div>
-</p>
-
----
-
 <table width="100%" style="border: none;" align="center">
   <tr>
     <td align="left" style="border: none;">
