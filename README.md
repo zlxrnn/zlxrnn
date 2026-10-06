@@ -2,8 +2,7 @@
 SOFTWARE ENGINEERING / 2026
 ```
 
-# Bryan Christian<br/>Shine Mokolomban
-
+# Bryan Christian<br/>Shine Mokolomban<br/>
 
 `Software Engineering Student` · `Backend / Full-Stack`
 
