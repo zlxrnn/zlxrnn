@@ -22,18 +22,14 @@ I build software to understand how systems work — from application logic and A
 
 ```zsh
 shine@dev ~ % cat current_focus.txt
-→ backend development
-→ system design & architecture
-→ TypeScript & Go
-→ full-stack application development
-→ writing maintainable software
+→ full-stack development
 ```
 
 ---
 
 ### `03 / STACK`
 
-`Go` &nbsp; `TypeScript` &nbsp; `JavaScript` &nbsp; `Python` &nbsp; `PHP` &nbsp; `Node.js` &nbsp; `Laravel` &nbsp; `Vue` &nbsp; `PostgreSQL` &nbsp; `Git` &nbsp; `Docker`
+`Go` &nbsp; `TypeScript` &nbsp; `JavaScript` &nbsp; `Python` &nbsp; `PHP` &nbsp; `Node.js` &nbsp; `Vue` &nbsp; `PostgreSQL` &nbsp; `Git` &nbsp; `Docker`
 
 ---
 
@@ -44,7 +40,6 @@ shine@dev ~ % cat current_focus.txt
     <td width="50%" valign="top">
       <h4>Discord Ecosystem</h4>
       <p>Production-oriented bots for communities, automation, APIs and real-time events.</p>
-      <br/>
       <sub><code>TypeScript</code> · <code>Node.js</code> · <code>discord.js</code></sub>
       <br/>
     </td>
