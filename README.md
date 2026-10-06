@@ -2,7 +2,7 @@
 SOFTWARE ENGINEERING / 2026
 ```
 
-# Bryan Christian<br/>Shine Mokolomban<br/>
+# Shine
 
 `Software Engineering Student` · `Backend / Full-Stack`
 
@@ -61,7 +61,7 @@ shine@dev ~ % cat current_focus.txt
       <h4>Asyncra</h4>
       <p>A startup project exploring asynchronous collaboration and digital product development.</p>
       <sub><code>Product</code> · <code>Engineering</code> · <code>Systems</code></sub>
-      <br/>
+      <br/> 
     </td>
   </tr>
 </table>
