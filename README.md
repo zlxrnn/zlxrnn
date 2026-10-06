@@ -2,7 +2,7 @@
 SOFTWARE ENGINEERING / 2026
 ```
 
-# Ephemeral
+# Bryan Christian<br/>Shine<br/>
 
 `Software Engineering Student` · `Backend / Full-Stack`
 
