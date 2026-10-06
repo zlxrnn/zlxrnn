@@ -82,6 +82,8 @@ shine@dev ~ % cat current_focus.txt
       <code>Build it. Understand it. Improve it.</code>
     </td>
     <td align="right" style="border: none;">
+    </td>
+    <td align="right" style="border: none;">
       <code>Still learning. Still building.</code>
     </td>
   </tr>
