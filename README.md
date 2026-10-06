@@ -71,8 +71,7 @@ shine@dev ~ % cat current_focus.txt
 ### `05 / ACTIVITY`
 
 <p align="left">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=zlxrnn&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlxrnn&layout=compact&theme=midnight-purple&hide_border=true" />
+  <div align="center"> <a href="https://github.com/zlxrnn"> <img src="https://github-readme-activity-graph.vercel.app/graphusername=zlxrnn&bg_color=00000000&color=888888&line=888888&point=ffffff&area=true&hide_border=true" width="100%" /> </a> </div>
 </p>
 
 ---
