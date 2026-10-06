@@ -4,11 +4,13 @@ SOFTWARE ENGINEERING / 2026
 
 # Bryan Christian<br/>Shine Mokolomban
 
+<br/>
+
 `Software Engineering Student` · `Backend / Full-Stack`
 
 <br/>
 
-[GitHub ↗](https://github.com/shine) &nbsp; [LinkedIn ↗](https://linkedin.com/in/) &nbsp; [Projects ↓](#04--selected-work)
+[GitHub ↗](https://github.com/zlxrnn) &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/bryan-christian-shine-mokolomban-093736370/) &nbsp; [Projects ↓](#04--selected-work)
 
 ---
 
