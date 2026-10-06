@@ -46,12 +46,14 @@ shine@dev ~ % cat current_focus.txt
       <p>Production-oriented bots for communities, automation, APIs and real-time events.</p>
       <br/>
       <sub><code>TypeScript</code> · <code>Node.js</code> · <code>discord.js</code></sub>
+      <br/>
     </td>
     <td width="50%" valign="top">
       <h4>Web Systems</h4>
       <p>Applications exploring APIs, authentication, databases, architecture and deployment.</p>
       <br/>
       <sub><code>Vue</code> · <code>Laravel</code> · <code>PostgreSQL</code></sub>
+      <br/>
     </td>
   </tr>
   <tr>
@@ -60,12 +62,14 @@ shine@dev ~ % cat current_focus.txt
       <p>Small utilities and experiments built to understand problems by actually solving them.</p>
       <br/>
       <sub><code>Go</code> · <code>Python</code> · <code>JavaScript</code></sub>
+      <br/>
     </td>
     <td width="50%" valign="top">
       <h4>Asyncra</h4>
       <p>A startup project exploring asynchronous collaboration and digital product development.</p>
       <br/>
       <sub><code>Product</code> · <code>Engineering</code> · <code>Systems</code></sub>
+      <br/>
     </td>
   </tr>
 </table>
@@ -75,7 +79,7 @@ shine@dev ~ % cat current_focus.txt
 ### `05 / ACTIVITY`
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shine&theme=github-dark&hide_border=true&bg_color=0D1117&color=6e7681&line=ffffff&point=ffffff&area=true&hide_title=true" width="100%" alt="Activity Chart" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zlxrnn&theme=github-dark&hide_border=true&bg_color=0D1117&color=6e7681&line=ffffff&point=ffffff&area=true&hide_title=true" width="100%" alt="Activity Chart" />
 </div>
 
 <br/>
