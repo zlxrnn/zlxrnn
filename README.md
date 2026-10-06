@@ -46,8 +46,7 @@ shine@dev ~ % cat current_focus.txt
     <td width="50%" valign="top">
       <h4>Web Systems</h4>
       <p>Applications exploring APIs, authentication, databases, architecture and deployment.</p>
-      <br/>
-      <sub><code>Vue</code> · <code>Laravel</code> · <code>PostgreSQL</code></sub>
+      <sub><code>Vue</code> · <code>PostgreSQL</code></sub>
       <br/>
     </td>
   </tr>
@@ -55,14 +54,12 @@ shine@dev ~ % cat current_focus.txt
     <td width="50%" valign="top">
       <h4>Developer Tools</h4>
       <p>Small utilities and experiments built to understand problems by actually solving them.</p>
-      <br/>
-      <sub><code>Go</code> · <code>Python</code> · <code>JavaScript</code></sub>
+      <sub><code>Go</code> · <code>JavaScript</code></sub>
       <br/>
     </td>
     <td width="50%" valign="top">
       <h4>Asyncra</h4>
       <p>A startup project exploring asynchronous collaboration and digital product development.</p>
-      <br/>
       <sub><code>Product</code> · <code>Engineering</code> · <code>Systems</code></sub>
       <br/>
     </td>
@@ -73,18 +70,18 @@ shine@dev ~ % cat current_focus.txt
 
 ### `05 / ACTIVITY`
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zlxrnn&theme=github-dark&hide_border=true&bg_color=0D1117&color=6e7681&line=ffffff&point=ffffff&area=true&hide_title=true" width="100%" alt="Activity Chart" />
-</div>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zlxrnn&theme=github-compact&custom_title=CONTRIBUTION%20TIMELINE&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
 
-<br/>
+---
 
-<table>
+<table width="100%" style="border: none;">
   <tr>
-    <td align="left" style="border:none">
+    <td align="left" style="border: none;">
       <code>Build it. Understand it. Improve it.</code>
     </td>
-    <td align="right" style="border:none">
+    <td align="right" style="border: none;">
       <code>Still learning. Still building.</code>
     </td>
   </tr>
