@@ -2,7 +2,7 @@
 SOFTWARE ENGINEERING / 2026
 ```
 
-# Shine
+# Ephemeral
 
 `Software Engineering Student` · `Backend / Full-Stack`
 
