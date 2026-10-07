@@ -31,11 +31,11 @@ shine@dev ~ % cat current_focus.txt
 
 `JavaScript` &nbsp; `TypeScript` &nbsp; `Go` &nbsp; `Python` &nbsp; `Java` &nbsp; `C++` &nbsp; `PHP`
 
-`Node.js` &nbsp; `Next.js` &nbsp; `Vue` &nbsp; `Svelte` &nbsp; `Laravel`
+`Node.js` &nbsp; `Next.js` &nbsp; `Vue` &nbsp; `Svelte`
 
 `PostgreSQL` &nbsp; `MySQL` &nbsp; `Supabase`
 
-`Git` &nbsp; `Docker` &nbsp; `Vercel` &nbsp; `Linux` &nbsp; `Discord.js`
+`Git` &nbsp; `Docker` &nbsp; `Vercel` &nbsp; `Discord.js`
 
 ---
 
