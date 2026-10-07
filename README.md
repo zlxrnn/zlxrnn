@@ -2,7 +2,7 @@
 SOFTWARE ENGINEERING / 2026
 ```
 
-# Bryan Christian<br/>Shine<br/>
+# Bryan<br/>Christian Shine<br/>
 
 `Software Engineering Student` · `Backend / Full-Stack`
 
@@ -29,7 +29,13 @@ shine@dev ~ % cat current_focus.txt
 
 ### `03 / STACK`
 
-`Go` &nbsp; `TypeScript` &nbsp; `JavaScript` &nbsp; `Python` &nbsp; `PHP` &nbsp; `Node.js` &nbsp; `Vue` &nbsp; `PostgreSQL` &nbsp; `Git` &nbsp; `Docker`
+`JavaScript` &nbsp; `TypeScript` &nbsp; `Go` &nbsp; `Python` &nbsp; `Java` &nbsp; `C++` &nbsp; `PHP`
+
+`Node.js` &nbsp; `Next.js` &nbsp; `Vue` &nbsp; `Svelte` &nbsp; `Laravel`
+
+`PostgreSQL` &nbsp; `MySQL` &nbsp; `Supabase`
+
+`Git` &nbsp; `Docker` &nbsp; `Vercel` &nbsp; `Linux` &nbsp; `Discord.js`
 
 ---
 
