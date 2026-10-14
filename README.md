@@ -90,7 +90,7 @@ shine@dev ~ % cat current_focus.txt
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zlxrnn&bg_color=0d1117&color=fffff&line=4d9fff&point=fffff&area=true&area_color=fffff&hide_border=true&custom_title=commits%20per%20day" width="100%" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zlxrnn&bg_color=0d1117&color=fffff&line=fffff&point=fffff&area=true&area_color=fffff&hide_border=true&custom_title=commits%20per%20day" width="100%" alt="activity graph" />
 </p>
 
 ---
