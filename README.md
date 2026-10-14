@@ -2,42 +2,57 @@
 SOFTWARE ENGINEERING / 2026
 ```
 
-# Bryan Christian Shine<br/>
+# Bryan Christian Shine
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=680&lines=Software+Engineering+Student;Backend+/+Full-Stack" alt="what I do" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B96A5&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+%2F+Full-Stack+Development;Learning+by+Building" alt="Introduction" />
 </p>
 
-<br/>
-
-[GitHub ↗](https://github.com/zlxrnn) &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/bryan-christian-shine-mokolomban-093736370/) &nbsp; [Projects ↓](#04--selected-work)
-
----
-
-### `01 / PROFILE`
-
-I build software to understand how systems work — from application logic and APIs to the architecture behind them. Currently studying Software Engineering at Telkom University Surabaya and building projects while learning the fundamentals behind the tools I use.
+<p align="center">
+  <a href="https://github.com/zlxrnn">GitHub ↗</a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/bryan-christian-shine-mokolomban-093736370/">LinkedIn ↗</a>
+  &nbsp; / &nbsp;
+  <a href="#04--selected-work">Selected Work ↓</a>
+</p>
 
 ---
 
-### `02 / CURRENTLY`
+### `01 / ABOUT`
+
+I'm a Software Engineering student at Telkom University Surabaya interested in backend and full-stack development.
+
+I enjoy building applications, exploring how systems work, and understanding the engineering decisions behind them. I'm currently strengthening my programming fundamentals while turning what I learn into practical projects.
+
+### `02 / FOCUS`
 
 ```zsh
 shine@dev ~ % cat current_focus.txt
-→ full-stack development
+
+> Backend & full-stack development
+> APIs, databases & system design
+> Writing maintainable software
 ```
 
 ---
 
-### `03 / STACK`
+### `03 / TECHNOLOGIES`
 
-`JavaScript` &nbsp; `TypeScript` &nbsp; `Go` &nbsp; `Python` &nbsp; `Java` &nbsp; `C++` &nbsp; `PHP`
+**Languages**
 
-`Node.js` &nbsp; `Next.js` &nbsp; `Vue` &nbsp; `Svelte`
+`JavaScript` `TypeScript` `Go` `Python` `Java` `C++` `PHP`
 
-`PostgreSQL` &nbsp; `MySQL` &nbsp; `Supabase`
+**Frameworks & Runtime**
 
-`Git` &nbsp; `Docker` &nbsp; `Vercel` &nbsp; `Discord.js`
+`Node.js` `Next.js` `Vue` `Svelte` `Laravel`
+
+**Databases & Services**
+
+`PostgreSQL` `MySQL` `Supabase`
+
+**Tools & Platforms**
+
+`Git` `Docker` `Vercel` `pnpm` `Discord.js`
 
 ---
 
@@ -46,58 +61,45 @@ shine@dev ~ % cat current_focus.txt
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>Discord Ecosystem</h4>
-      <p>Production-oriented bots for communities, automation, APIs and real-time events.</p>
-      <sub><code>TypeScript</code> · <code>Node.js</code> · <code>discord.js</code></sub>
-      <br/>
+      <h4>01 — Discord Ecosystem</h4>
+      <p>Building bots and community tools with a focus on automation, API integration, and event-driven systems.</p>
+      <sub><code>TypeScript</code> <code>Node.js</code> <code>Discord.js</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h4>Web Systems</h4>
-      <p>Applications exploring APIs, authentication, databases, architecture and deployment.</p>
-      <sub><code>Vue</code> · <code>PostgreSQL</code></sub>
-      <br/>
+      <h4>02 — Web Applications</h4>
+      <p>Exploring application development, backend logic, authentication, database design, and deployment.</p>
+      <sub><code>Vue</code> <code>PostgreSQL</code> <code>Supabase</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>Developer Tools</h4>
-      <p>Small utilities and experiments built to understand problems by actually solving them.</p>
-      <sub><code>Go</code> · <code>JavaScript</code></sub>
-      <br/>
+      <h4>03 — Developer Experiments</h4>
+      <p>Small tools and programming experiments built to explore concepts, solve problems, and learn by doing.</p>
+      <sub><code>Go</code> <code>JavaScript</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h4>Asyncra</h4>
-      <p>A startup project exploring asynchronous collaboration and digital product development.</p>
-      <sub><code>Product</code> · <code>Engineering</code> · <code>Systems</code></sub>
-      <br/> 
+      <h4>04 — Asyncra</h4>
+      <p>An early-stage startup initiative focused on digital product development and asynchronous collaboration.</p>
+      <sub><code>Product Development</code> <code>Engineering</code></sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### `06 / METRICS`
+### `05 / GITHUB ACTIVITY`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=zlxrnn&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&icon_color=ffc83d&text_color=8b96a5" alt="stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=zlxrnn&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=8b96a5" alt="top languages" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=zlxrnn&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&icon_color=8b96a5&text_color=8b96a5" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=zlxrnn&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=8b96a5" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zlxrnn&theme=highcontrast&hide_border=true&background=0d1117" alt="streak" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=zlxrnn&theme=highcontrast&hide_border=true&background=0d1117&ring=8b96a5&fire=8b96a5&currStreakLabel=ffffff" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-<table width="100%" style="border: none;" align="center">
-  <tr>
-    <td align="left" style="border: none;">
-      <code>Build it. Understand it. Improve it.</code>
-    </td>
-    <td align="right" style="border: none;">
-      <code>Still learning. Still building.</code>
-    </td>
-  </tr>
-</table>
-
----
+<p align="center">
+  <code>Build with intent. Learn by doing. Improve continuously.</code>
+</p>
