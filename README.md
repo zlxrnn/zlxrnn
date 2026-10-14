@@ -6,6 +6,10 @@ SOFTWARE ENGINEERING / 2026
 
 `Software Engineering Student` · `Backend / Full-Stack`
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=680&lines=Software Engineering Student; Backend / Full-Stack" alt="what I do" />
+</p>
+
 <br/>
 
 [GitHub ↗](https://github.com/zlxrnn) &nbsp; [LinkedIn ↗](https://www.linkedin.com/in/bryan-christian-shine-mokolomban-093736370/) &nbsp; [Projects ↓](#04--selected-work)
@@ -74,6 +78,27 @@ shine@dev ~ % cat current_focus.txt
 
 ---
 
+### `05 / STATS`
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=zlxrnn&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&icon_color=ffc83d&text_color=8b96a5" alt="stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=zlxrnn&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=8b96a5" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.vercel.app/?user=zlxrnn&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4d9fff&fire=ffc83d&currStreakLabel=4d9fff&sideLabels=8b96a5&dates=8b96a5" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zlxrnn&bg_color=0d1117&color=8b96a5&line=4d9fff&point=ffc83d&area=true&area_color=4d9fff&hide_border=true&custom_title=commits%20per%20day" width="100%" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=zlxrnn&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
+</p>
+
+---
+
 <table width="100%" style="border: none;" align="center">
   <tr>
     <td align="left" style="border: none;">
@@ -86,5 +111,3 @@ shine@dev ~ % cat current_focus.txt
 </table>
 
 ---
-
-https://github-readme-stats.vercel.app/api?username=zlxrnn
