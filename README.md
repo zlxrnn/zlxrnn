@@ -76,7 +76,7 @@ shine@dev ~ % cat current_focus.txt
 
 ---
 
-### `05 / STATS`
+### `06 / METRICS`
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=zlxrnn&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&icon_color=ffc83d&text_color=8b96a5" alt="stats" />
