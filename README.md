@@ -4,7 +4,7 @@ SOFTWARE ENGINEERING / 2026
 
 # Bryan Christian Shine<br/>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=680&lines=Software+Engineering+Student;Backend+/+Full-Stack" alt="what I do" />
 </p>
 
