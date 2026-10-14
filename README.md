@@ -86,7 +86,7 @@ shine@dev ~ % cat current_focus.txt
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=zlxrnn&theme=highcontrast" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=zlxrnn&theme=highcontrast&hide_border=true" alt="streak" />
 </p>
 
 ---
