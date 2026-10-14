@@ -86,11 +86,7 @@ shine@dev ~ % cat current_focus.txt
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=zlxrnn&theme=github-dark-blue&hide_border=true&background=0d1117&ring=fffff&fire=ffc83d&currStreakLabel=fffff&sideLabels=8b96a5&dates=8b96a5" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zlxrnn&bg_color=0d1117&color=fffff&line=fffff&point=fffff&area=true&area_color=fffff&hide_border=true&custom_title=commits%20per%20day" width="100%" alt="activity graph" />
+  <img src="https://streak-stats.vercel.app/?user=zlxrnn&theme=github-dark-blue&hide_border=true&background=0d1117&ring=fffff&fire=ffc83d&currStreakLabel=fffff&sideLabels=ffffff&dates=ffffff" alt="streak" />
 </p>
 
 ---
