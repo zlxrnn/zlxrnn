@@ -86,10 +86,8 @@ shine@dev ~ % cat current_focus.txt
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=zlxrnn&theme=github-dark&hide_border=true&background=0d1117&ring=fffff&fire=ffc83d&currStreakLabel=fffff&sideLabels=ffffff&dates=ffffff" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=zlxrnn&theme=highcontrast" alt="streak" />
 </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zlxrnn&theme=dark)](https://git.io/streak-stats)
 
 ---
 
