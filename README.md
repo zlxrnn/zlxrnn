@@ -105,4 +105,3 @@ shine@dev ~ % cat current_focus.txt
   <br/>
   <sub>Still learning. Still building.</sub>
 </p>
-```
