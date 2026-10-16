@@ -44,11 +44,11 @@ shine@dev ~ % cat current_focus.txt
 
 **Frameworks & Runtime**
 
-`Node.js` &nbsp; `Next.js` &nbsp; `Vue` &nbsp; `Svelte`
+`Node.js` &nbsp; `Next.js` &nbsp; `Vue` &nbsp; `Svelte` &nbsp; `React`
 
 **Databases & Backend**
 
-`PostgreSQL` &nbsp; `MySQL` &nbsp; `Supabase`
+`PostgreSQL` &nbsp; `MySQL` &nbsp; `Supabase` 
 
 **Tools & Platforms**
 
